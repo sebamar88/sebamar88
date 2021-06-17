@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy Sebastián Martinez 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Front-End</strong> con 5 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador JavaScript Front-End</strong><br />¡Revisa mi contenido 👇!</p>
 <p align="center">
   <a href="https://instagram.com/sebamar88" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sebamar88" height="28px" width="28px" />
