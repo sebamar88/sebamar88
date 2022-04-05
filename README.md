@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://sebamar.site/static/08e51102c8276784055fa62f6eb27508/cddad/sebastian-martinez.webp" />
+   <img align="center" width="200" src="https://sebamar.tech/static/08e51102c8276784055fa62f6eb27508/cddad/sebastian-martinez.webp" />
    <h3 align="center">¡Hey 👋! Soy Sebastián Martinez 👨🏻‍💻</h3>
 </p>
 
