@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **VueJs**
 
-- 👯 I’m looking to collaborate on **Bonzzu**
-
 - 👨‍💻 All of my projects are available at [https://sebamar.tech](https://sebamar.tech)
 
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
