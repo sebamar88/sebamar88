@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastián Martínez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebamar88&theme=monokai" alt="sebamar88" /></a> </p>
-
 - 🔭 I’m currently working on **ReactJs**
 
 - 🌱 I’m currently learning **VueJs**
