@@ -9,7 +9,7 @@
 
 - 🔭 **Focus**: Currently architecting scalable solutions with **React**, **Node.js**, and **Python**.
 - 🌱 **Growth**: Deep diving into **Software Architecture patterns (DDD, Clean Architecture)** and exploring **VueJs** ecosystem.
-- 👨‍💻 **Portfolio**: Discover my projects and specialized tools like **ByteKit** at [sebamar.tech](https://sebamar.tech).
+- 👨‍💻 **Portfolio**: Discover my projects and specialized tools like **ByteKit**.
 - 📝 **Writing**: I share technical insights on [Dev.to](https://dev.to/sebamar88).
 - 📫 **Contact**: Reach me at [sebamar88@gmail.com](mailto:sebamar88@gmail.com).
 - 📄 **Resume**: Check my professional journey [here](https://drive.google.com/file/d/1-GF5YB9Dbn-B3jKGPPn2cEcQwxnPIHGV/view?usp=sharing).
